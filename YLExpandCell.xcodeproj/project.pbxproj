@@ -15,6 +15,7 @@
 		791A85741D9E509F002B676C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 791A85721D9E509F002B676C /* LaunchScreen.storyboard */; };
 		791A857D1D9E51CD002B676C /* YLExpandCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 791A857C1D9E51CD002B676C /* YLExpandCell.m */; };
 		791A85801D9E5400002B676C /* YLExpandModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 791A857F1D9E5400002B676C /* YLExpandModel.m */; };
+		792DBBF41DA8971500357018 /* expandCell.gif in Resources */ = {isa = PBXBuildFile; fileRef = 792DBBF31DA8971500357018 /* expandCell.gif */; };
 		8F57AE3EE1123D7923904D69 /* libPods-YLExpandCell.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7FE860098F4027DA6FEA7EBF /* libPods-YLExpandCell.a */; };
 /* End PBXBuildFile section */
 
@@ -33,6 +34,7 @@
 		791A857C1D9E51CD002B676C /* YLExpandCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YLExpandCell.m; sourceTree = "<group>"; };
 		791A857E1D9E5400002B676C /* YLExpandModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YLExpandModel.h; sourceTree = "<group>"; };
 		791A857F1D9E5400002B676C /* YLExpandModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YLExpandModel.m; sourceTree = "<group>"; };
+		792DBBF31DA8971500357018 /* expandCell.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = expandCell.gif; sourceTree = "<group>"; };
 		7FE860098F4027DA6FEA7EBF /* libPods-YLExpandCell.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-YLExpandCell.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DAFA591AFBD4F210FAAF94B /* Pods-YLExpandCell.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YLExpandCell.release.xcconfig"; path = "Pods/Target Support Files/Pods-YLExpandCell/Pods-YLExpandCell.release.xcconfig"; sourceTree = "<group>"; };
 		D6498B9FCE2BD2BD37A7CD6E /* Pods-YLExpandCell.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YLExpandCell.debug.xcconfig"; path = "Pods/Target Support Files/Pods-YLExpandCell/Pods-YLExpandCell.debug.xcconfig"; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 				791A85701D9E509F002B676C /* Assets.xcassets */,
 				791A85721D9E509F002B676C /* LaunchScreen.storyboard */,
 				791A85751D9E509F002B676C /* Info.plist */,
+				792DBBF21DA8971500357018 /* Resource */,
 				791A85641D9E509F002B676C /* Supporting Files */,
 			);
 			path = YLExpandCell;
@@ -102,6 +105,14 @@
 				791A85651D9E509F002B676C /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		792DBBF21DA8971500357018 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				792DBBF31DA8971500357018 /* expandCell.gif */,
+			);
+			path = Resource;
 			sourceTree = "<group>";
 		};
 		E383B3584D56282873AF007F /* Pods */ = {
@@ -175,6 +186,7 @@
 			files = (
 				791A85741D9E509F002B676C /* LaunchScreen.storyboard in Resources */,
 				791A85711D9E509F002B676C /* Assets.xcassets in Resources */,
+				792DBBF41DA8971500357018 /* expandCell.gif in Resources */,
 				791A856F1D9E509F002B676C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
