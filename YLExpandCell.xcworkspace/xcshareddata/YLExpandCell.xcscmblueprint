@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4C62C4F4B6FF638363DD883D8D34CDBA11AD6C2B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C9513D3189D780D17D98817C5D054FC5DF8A1163" : 0,
+    "4C62C4F4B6FF638363DD883D8D34CDBA11AD6C2B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3F46C6E4-CA71-429D-B9E0-59D03CBD780F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C9513D3189D780D17D98817C5D054FC5DF8A1163" : "",
+    "4C62C4F4B6FF638363DD883D8D34CDBA11AD6C2B" : "YLExpandCell\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YLExpandCell",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "YLExpandCell.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/YL0817\/YLExpandCell.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C62C4F4B6FF638363DD883D8D34CDBA11AD6C2B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/YL0817\/YLExpandCell.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C9513D3189D780D17D98817C5D054FC5DF8A1163"
+    }
+  ]
+}
